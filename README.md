@@ -8,4 +8,4 @@
 
 @BaseUrl_Production:test-phl-api.fyinformation.cc
 
-@AdjustToken:test-phl-api.fyinformation.cc
+@AdjustToken:c5t2wa6rtq80
