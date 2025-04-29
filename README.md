@@ -1,8 +1,8 @@
-@AppId:lanhao
+@AppId:lendmo
 
-@AppSalt_Sandbox:DebgKIeRPfk4riWP
+@AppSalt_Sandbox:t6OgTvOKmZpYcKyG
 
-@AppSalt_Production:DebgKIeRPfk4riWP
+@AppSalt_Production:t6OgTvOKmZpYcKyG
 
 @BaseUrl_Sandbox:test-phl-api.fyinformation.cc
 
